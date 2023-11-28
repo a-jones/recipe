@@ -22,3 +22,6 @@ There is no actual recipe.
 last line changed *locally*
 
 This is a **REMOTE** change :O
+
+![Recipe picture](/Users/andreajones/Desktop/Data_science_toolbox_course/Assignment_3/recipe/recipe.jpg "Recipe picture")
+
