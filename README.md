@@ -9,16 +9,16 @@
   <li>Fourth item</li>
 </ol>
 
-This is a LOCAL change :)
+This is a **LOCAL** change :)
 
 recipe
 
-line 2 changed remotely
+line 2 changed *remotely*
 This repository contains the recipe for the data science tool box course. The recipe tag is cookies.
 
 My name is Andrea.
 
 There is no actual recipe.
-last line changed locally
+last line changed *locally*
 
-This is a REMOTE change :O
+This is a **REMOTE** change :O
