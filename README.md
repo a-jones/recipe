@@ -2,6 +2,13 @@
 
 ### Level 3 header
 
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+  <li>Fourth item</li>
+</ol>
+
 This is a LOCAL change :)
 
 recipe
